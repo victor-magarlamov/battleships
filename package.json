@@ -5,7 +5,6 @@
   "dependencies": {
     "@types/jest": "24.0.18",
     "@types/node": "12.7.2",
-    "@types/react": "16.9.2",
     "@types/react-dom": "16.9.0",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
@@ -15,8 +14,9 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "cypress": "cypress open",
+    "eject": "react-scripts eject",
+    "lint": "eslint src/**/*.{js,tsx}"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -32,5 +32,24 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "@types/react": "^16.9.2",
+    "@types/react-redux": "^7.1.2",
+    "@typescript-eslint/eslint-plugin": "^1.13.0",
+    "@typescript-eslint/parser": "^1.13.0",
+    "cypress": "^3.4.1",
+    "eslint": "^6.5.1",
+    "eslint-config-prettier": "^6.3.0",
+    "eslint-config-react": "^1.1.7",
+    "eslint-plugin-prettier": "^3.1.1",
+    "eslint-plugin-react": "^7.15.1",
+    "eslint-plugin-react-app": "^6.0.3",
+    "prettier": "^1.18.2",
+    "react-redux": "^7.1.1",
+    "react-router-dom": "^5.0.1",
+    "redux": "^4.0.4",
+    "redux-thunk": "^2.3.0",
+    "rxjs": "^6.5.3"
   }
 }
