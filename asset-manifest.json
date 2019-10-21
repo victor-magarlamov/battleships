@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/victor-magarlamov/battleships/static/css/main.e256be1d.chunk.css",
-    "main.js": "/victor-magarlamov/battleships/static/js/main.a484de68.chunk.js",
-    "main.js.map": "/victor-magarlamov/battleships/static/js/main.a484de68.chunk.js.map",
-    "runtime~main.js": "/victor-magarlamov/battleships/static/js/runtime~main.27f9cd84.js",
-    "runtime~main.js.map": "/victor-magarlamov/battleships/static/js/runtime~main.27f9cd84.js.map",
-    "static/js/2.62f78a5f.chunk.js": "/victor-magarlamov/battleships/static/js/2.62f78a5f.chunk.js",
-    "static/js/2.62f78a5f.chunk.js.map": "/victor-magarlamov/battleships/static/js/2.62f78a5f.chunk.js.map",
-    "index.html": "/victor-magarlamov/battleships/index.html",
-    "precache-manifest.82c7948b254276fa7376bb7232ca0458.js": "/victor-magarlamov/battleships/precache-manifest.82c7948b254276fa7376bb7232ca0458.js",
-    "service-worker.js": "/victor-magarlamov/battleships/service-worker.js",
-    "static/css/main.e256be1d.chunk.css.map": "/victor-magarlamov/battleships/static/css/main.e256be1d.chunk.css.map"
+    "main.css": "/battleships/static/css/main.e256be1d.chunk.css",
+    "main.js": "/battleships/static/js/main.a484de68.chunk.js",
+    "main.js.map": "/battleships/static/js/main.a484de68.chunk.js.map",
+    "runtime~main.js": "/battleships/static/js/runtime~main.fc1429cb.js",
+    "runtime~main.js.map": "/battleships/static/js/runtime~main.fc1429cb.js.map",
+    "static/js/2.62f78a5f.chunk.js": "/battleships/static/js/2.62f78a5f.chunk.js",
+    "static/js/2.62f78a5f.chunk.js.map": "/battleships/static/js/2.62f78a5f.chunk.js.map",
+    "index.html": "/battleships/index.html",
+    "precache-manifest.f9ad56bc22a70985bae38d75414ef9f7.js": "/battleships/precache-manifest.f9ad56bc22a70985bae38d75414ef9f7.js",
+    "service-worker.js": "/battleships/service-worker.js",
+    "static/css/main.e256be1d.chunk.css.map": "/battleships/static/css/main.e256be1d.chunk.css.map"
   }
 }
