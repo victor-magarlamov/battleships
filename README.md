@@ -1,3 +1,3 @@
 # Battleships
 
-[PLAY](http://tetris.magarlamov.lclients.ru/)
+[PLAY](https://victor-magarlamov.github.io/battleships/index.html)
